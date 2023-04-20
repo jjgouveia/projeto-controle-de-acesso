@@ -10,6 +10,7 @@ import java.util.Scanner;
 public class Principal {
   /**
    * Método principal.
+   * 
    */
 
   public static void main(String[] args) {
